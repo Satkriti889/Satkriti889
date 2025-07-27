@@ -2,15 +2,13 @@
 
 📍 Kathmandu, Nepal  
 📧 satkritikhadka2061@gmail.com  
-📱 9861860798  
 🌐 [My Portfolio](https://satkriti.onrender.com)
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm passionate about technology and coding, especially Python. I enjoy learning new tools and building software that solves real-world problems.
-I take pride in writing clean and efficient code.
+I am a tech enthusiast from with a strong passion for Python and coding. I enjoy learning new tools and building practical software that solves real-world problems. I focus on writing clean, efficient code and creating user-friendly applications that add real value.
 
 ---
 
@@ -20,8 +18,7 @@ I take pride in writing clean and efficient code.
 - 🌐 HTML, CSS, JavaScript  
 - ⚡ FastAPI, Django  
 - 📊 Pandas, NumPy, OpenCV  
-- 💾 MySQL, SQLite  
-- 🔧 Git, GitHub, VS Code  
+- 🔧 Git, GitHub  
 
 ## 📫 Contact
 
