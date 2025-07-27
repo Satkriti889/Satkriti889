@@ -26,3 +26,4 @@ Feel free to reach out:
 
 - Email: **satkritikhadka2061@gmail.com**  
 - Portfolio: [satkriti.onrender.com](https://satkriti.onrender.com)
+- LinkedIn:https://www.linkedin.com/in/satkriti-khadka-79474b305/
