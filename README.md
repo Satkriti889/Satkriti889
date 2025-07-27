@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Satkriti Khadka
 
-<!--
-**Satkriti889/Satkriti889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Kathmandu, Nepal  
+📧 satkritikhadka2061@gmail.com  
+📱 9861860798  
+🌐 [My Portfolio](https://satkriti.onrender.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I'm passionate about technology and coding, especially Python. I enjoy learning new tools and building software that solves real-world problems.
+I take pride in writing clean and efficient code.
+
+---
+
+## 🛠️ Skills
+
+- 🐍 Python  
+- 🌐 HTML, CSS, JavaScript  
+- ⚡ FastAPI, Django  
+- 📊 Pandas, NumPy, OpenCV  
+- 💾 MySQL, SQLite  
+- 🔧 Git, GitHub, VS Code  
+
+## 📫 Contact
+
+Feel free to reach out:
+
+- Email: **satkritikhadka2061@gmail.com**  
+- Portfolio: [satkriti.onrender.com](https://satkriti.onrender.com)
